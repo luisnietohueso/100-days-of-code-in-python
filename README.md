@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title># 100-days-of-code-in-python</title>
+
 </head>
 <body>
     <h1># 100-days-of-code-in-python</h1>
